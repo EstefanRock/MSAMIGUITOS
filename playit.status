@@ -1,1 +1,666 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0mGot Error
+MSG: Failed to load data from api
+retrying in 3 seconds
+Error: TooManyRequests
+[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726371277001 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371280067 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371283128 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726371298220 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371301280 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371304344 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726371319450 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371322529 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371325635 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726371340733 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371343798 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726371358932 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371361994 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371365052 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726371380148 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371383207 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371386270 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726371401358 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371404424 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726371419522 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371422582 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371425673 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726371440781 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371443843 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726371458933 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371461990 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371465047 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726371480149 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371483207 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726371498296 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371501372 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371504434 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726371519525 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371522594 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371525663 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726371540767 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371543844 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371546905 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371549983 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371553055 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371556118 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371559184 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371562269 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371565330 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371568387 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371571451 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371574507 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371577563 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726371592662 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371595736 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371598805 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371601861 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371604917 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371607970 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726371623063 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371626135 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371629193 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371632250 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371635314 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371638387 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371641444 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371644497 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371647553 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371650614 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371653668 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371656749 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371659813 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371662872 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371665944 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371668996 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726371684090 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371687152 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371690221 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371693280 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371696340 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371699397 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371702460 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371705519 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371708589 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726371723707 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371726772 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371729828 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371732883 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371735938 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371739002 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371742061 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371745130 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371748193 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371751253 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371754313 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371757369 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371760424 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371763477 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371766535 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371769599 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371772660 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726371787748 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371790805 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371793868 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371796931 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371799997 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371803054 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371806116 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371809172 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371812231 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371815292 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371818346 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371821405 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371824465 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371827521 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371830574 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371833628 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371836761 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371839820 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371842879 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371845945 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371849052 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371852121 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371855179 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371858244 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726371861306 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+prices-cards.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
